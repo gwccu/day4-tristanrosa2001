@@ -10,3 +10,8 @@ while stregnth >= 10:
     print (stregnth)
     stregnth -= 5
 print("You have lost your stregnth, you must level up")
+stregnth = 2
+print("Your Strength is 4")
+while stregnth <= 50000000:
+    print (stregnth)
+    stregnth **= 2
